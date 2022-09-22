@@ -1,0 +1,23 @@
+.form-input {
+    display: block;
+    width: 200px;
+    margin: 5px auto;
+    height: 30px;
+    font-size: 16px;
+    text-align: center;
+  }
+  .form-button {
+    display: block;
+    width: 250px;
+    margin: 20px auto;
+    border-radius: 5px;
+    height: 50px;
+    font-size: 20px;
+    background-color: #cf0000;
+    border-style: hidden;
+  }
+  
+  .form-button:hover {
+    cursor: pointer;
+    background-color: #e84545;
+  }
